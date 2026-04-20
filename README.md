@@ -1,6 +1,6 @@
 # Medical Code Systems in Practice — A Type 2 Diabetes Case Study
 
-Reproducible code that accompanies the Medium post *"Medical Code Systems in Practice: A Type 2 Diabetes Case Study."* The post treats Type 2 diabetes phenotyping as a single applied use case for the major medical code systems — **ICD-10-CM**, **ICD-9-CM**, **RxNorm**, **LOINC**, and **CPT** — and walks the same task across three settings: synthetic administrative claims, real MIMIC-IV hospital EHR, and the PheKB / eMERGE reference library.
+Reproducible code that accompanies the Medium post [*"Medical Code Systems in Practice: A Type 2 Diabetes Case Study."*](https://medium.com/@juankehoe/medical-code-systems-in-practice-a-type-2-diabetes-case-study-ad34d27e0f54) The post treats Type 2 diabetes phenotyping as a single applied use case for the major medical code systems — **ICD-10-CM**, **ICD-9-CM**, **RxNorm**, **LOINC**, and **CPT** — and walks the same task across three settings: synthetic administrative claims, real MIMIC-IV hospital EHR, and the PheKB / eMERGE reference library.
 
 ## What's in this repo
 
